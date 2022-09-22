@@ -19,17 +19,20 @@
     background: linear-gradient(45deg, #7ed957, #ffcd37);
     text-align: center;
 }
+.h1{
+ font-size:30px;
+ font-weight:bold; 
+}
 .btn {
     width: 75%;
     height: 50px;
     margin-bottom: 10px;
     margin-top: 10px;
-    font-size: 18px;
+    font-size: 22px;
     font-weight: bold;
-    color: white;
 }
 .footerjudul{
-    font-size: 18px;
+    font-size: 22px;
     font-weight: bold;
     text-align: center;
 }
